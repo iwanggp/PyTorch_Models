@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Anjuta template
+# Local configuration folder and symbol database
+/.anjuta/
+/.anjuta_sym_db.db
+
